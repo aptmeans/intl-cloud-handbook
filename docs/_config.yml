@@ -1,0 +1,27 @@
+url: "https://aptmeans.github.io"
+baseurl: "/intl-cloud-handbook"
+
+title: 海外云上手笔记
+description: 阿里云国际、腾讯云国际、AWS、Azure、Google Cloud 的开户选择、账号交接、USDT 付款与账单管理笔记。
+lang: zh-CN
+author: aptmeans
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
