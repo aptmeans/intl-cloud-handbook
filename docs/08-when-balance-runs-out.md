@@ -41,4 +41,4 @@ description: 海外云账号欠费后通常会经历提醒、停机、释放几�
 
 ---
 
-上一篇：[按量付费和包年包月怎么搭配](07-mixing-billing-methods.md) · [目录](./)
+上一篇：[按量付费和包年包月怎么搭配](07-mixing-billing-methods.md) · [目录](./) · 下一篇：[几个人一起用一个云账号，权限怎么分](09-team-access-split.md)
