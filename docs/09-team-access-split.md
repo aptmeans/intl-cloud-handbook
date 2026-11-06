@@ -65,4 +65,4 @@ description: 团队共用海外云账号时，按「谁管钱、谁动资源、�
 
 ---
 
-上一篇：[余额见底以后会发生什么](08-when-balance-runs-out.md) · [目录](./)
+上一篇：[余额见底以后会发生什么](08-when-balance-runs-out.md) · [目录](./) · 下一篇：[云厂商的通知邮件该发给谁](10-who-gets-the-emails.md)

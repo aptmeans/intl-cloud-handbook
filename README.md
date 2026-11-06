@@ -17,6 +17,7 @@
 | 7 | [按量付费和包年包月怎么搭配](docs/07-mixing-billing-methods.md) | 账单不稳定 |
 | 8 | [余额见底以后会发生什么](docs/08-when-balance-runs-out.md) | 收到欠费提醒 |
 | 9 | [几个人一起用一个云账号，权限怎么分](docs/09-team-access-split.md) | 团队分权限、有人离职 |
+| 10 | [云厂商的通知邮件该发给谁](docs/10-who-gets-the-emails.md) | 欠费、密钥泄露通知没人看 |
 
 ## 速查
 
