@@ -18,6 +18,7 @@
 | 8 | [余额见底以后会发生什么](docs/08-when-balance-runs-out.md) | 收到欠费提醒 |
 | 9 | [几个人一起用一个云账号，权限怎么分](docs/09-team-access-split.md) | 团队分权限、有人离职 |
 | 10 | [云厂商的通知邮件该发给谁](docs/10-who-gets-the-emails.md) | 欠费、密钥泄露通知没人看 |
+| 11 | [付款成功但余额没动：找客服之前自己先查什么](docs/11-when-balance-not-updated.md) | 付完款控制台余额不变 |
 
 ## 速查
 

@@ -71,4 +71,4 @@ AWS 的做法更直接：在账号页面的 Alternate contacts 里，可以分�
 
 ---
 
-上一篇：[几个人一起用一个云账号，权限怎么分](09-team-access-split.md) · [目录](./)
+上一篇：[几个人一起用一个云账号，权限怎么分](09-team-access-split.md) · [目录](./) · 下一篇：[付款成功但余额没动：找客服之前自己先查什么](11-when-balance-not-updated.md)
